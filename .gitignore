@@ -1,0 +1,5 @@
+# Ignore project files
+.buildpath
+.project
+.settings/*
+/Copy of .project
