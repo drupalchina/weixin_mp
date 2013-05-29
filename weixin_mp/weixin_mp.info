@@ -1,0 +1,4 @@
+name = Weixin-mp
+description = Provide weixin(wechat) public platform funtion for Drupal
+package = Weixin
+core = 7.x
